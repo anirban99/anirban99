@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build REST API with Spring Boot and Kotlin](https://expatdev.com/posts/build-rest-api-spring-boot-kotlin/)
+- [How To Create a Spring Boot Project](https://expatdev.com/posts/how-to-create-a-spring-boot-project/)
+- [Null Safety in Kotlin](https://expatdev.com/posts/null-safety-in-kotlin/)
+- [Hexagonal Architecture in Java](https://expatdev.com/posts/hexagonal-architecture-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
