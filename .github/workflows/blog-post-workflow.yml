@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in expat dev posts
-        uses: anirban99/anirban99@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https:/www.expatdev.com/index.xml'
