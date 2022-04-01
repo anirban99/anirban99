@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: anirban99/blog-post-workflow@master
+      - uses: anirban99/anirban99@master
         with:
           feed_list: 'https:/www.expatdev.com/index.xml'
