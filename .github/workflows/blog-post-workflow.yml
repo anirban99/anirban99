@@ -14,4 +14,5 @@ jobs:
       - name: Pull in expat dev posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https:/www.expatdev.com/index.xml'
+          feed_list: "https:/www.expatdev.com/index.xml"
+          max_post_count: 20
