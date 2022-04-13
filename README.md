@@ -34,12 +34,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ### Blogs posts
+
+#### Expat Dev
 <!-- BLOG-POST-LIST:START -->
 - [Build REST API with Spring Boot and Kotlin](https://expatdev.com/posts/build-rest-api-spring-boot-kotlin/)
 - [How To Create a Spring Boot Project](https://expatdev.com/posts/how-to-create-a-spring-boot-project/)
 - [Null Safety in Kotlin](https://expatdev.com/posts/null-safety-in-kotlin/)
 - [Hexagonal Architecture in Java](https://expatdev.com/posts/hexagonal-architecture-in-java/)
 <!-- BLOG-POST-LIST:END -->
+
+#### Baeldung
+- [Difference Between @ComponentScan and @EnableAutoConfiguration in Spring Boot](https://www.baeldung.com/spring-componentscan-vs-enableautoconfiguration)
+- [Filtering a List in Kotlin](https://www.baeldung.com/kotlin/list-filtering)
+- [Testing Exceptions in Kotlin with assertFailsWith](https://www.baeldung.com/kotlin/assertfailswith)
+- [Aggregate Operations in Kotlin](https://www.baeldung.com/kotlin/aggregate-operations)
+- [Exception Handling in Kotlin](https://www.baeldung.com/kotlin/exception-handling)
+- [Working With Lists in Kotlin](https://www.baeldung.com/kotlin/lists)
+- [If-Else Expression in Kotlin](https://www.baeldung.com/kotlin/if-else-expression)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
