@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Anirban</h1>
-![Header](./github-header-image.png)
 <h3 align="center">I'm a enthusiastic software engineer living in Berlin, Germany. I work as a Senior Backend Engineer using JVM languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban99&label=Profile%20views&color=0e75b6&style=flat" alt="anirban99" /> </p>
