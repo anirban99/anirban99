@@ -25,22 +25,22 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **GitOps**
 
-- 👯 I’m looking to collaborate on blogs and tutorials
+- 👯 I’m looking to collaborate on blogs, online tutorials and open source projects
 
-- 📝 I regularly write articles on [Baeldung](https://www.baeldung.com/kotlin/author/anirbanchatterjee) and [Expat Dev](https://www.expatdev.com/)
+- 📝 I write technical articles on [Baeldung](https://www.baeldung.com/kotlin/author/anirbanchatterjee) and [Anirban's Tech Blog](https://theanirban.dev/)
 
-- 💬 Ask me about **Java, Kotlin, Spring Boot**
+- 💬 Ask me about **Java, Spring Ecosystem, Kotlin**
 
 - 😄 Pronouns: He/Him
 
 ### Blogs posts
 
-#### Expat Dev
+#### My Blog
 <!-- BLOG-POST-LIST:START -->
-- [Build REST API with Spring Boot and Kotlin](https://expatdev.com/posts/build-rest-api-spring-boot-kotlin/)
-- [How To Create a Spring Boot Project](https://expatdev.com/posts/how-to-create-a-spring-boot-project/)
-- [Null Safety in Kotlin](https://expatdev.com/posts/null-safety-in-kotlin/)
-- [Hexagonal Architecture in Java](https://expatdev.com/posts/hexagonal-architecture-in-java/)
+- [Build REST API with Spring Boot and Kotlin](https://theanirban.dev/build-rest-api-spring-boot-kotlin/)
+- [How To Create a Spring Boot Project](https://theanirban.dev/how-to-create-a-spring-boot-project/)
+- [Null Safety in Kotlin](https://theanirban.dev/null-safety-in-kotlin/)
+- [Hexagonal Architecture in Java](https://theanirban.dev/hexagonal-architecture-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Baeldung
